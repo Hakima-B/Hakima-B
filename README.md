@@ -1,4 +1,4 @@
-De la curiosité à la maîtrise : mon parcours tech en construction 🛠️
+# De la curiosité à la maîtrise : mon parcours tech en construction 🛠️
 
 
 Passionnée par le monde de la tech, je suis actuellement en reconversion professionnelle dans le développement d'applications. 
