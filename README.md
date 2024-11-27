@@ -1,3 +1,6 @@
+De la curiosité à la maîtrise : mon parcours tech en construction 🛠️
+
+
 Passionnée par le monde de la tech, je suis actuellement en reconversion professionnelle dans le développement d'applications. 
 Bien que je sois encore au début de mon parcours, je m'engage activement dans l'apprentissage des technologies et des outils nécessaires pour devenir une développeuse compétente.
 
